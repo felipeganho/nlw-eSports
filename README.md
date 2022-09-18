@@ -1,5 +1,4 @@
-# eSports
-NLW eSports
+# NLW eSports
 
 <div align="center">
   <a href="https://opensource.org/licenses/MIT"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-brightgreen"></a>
